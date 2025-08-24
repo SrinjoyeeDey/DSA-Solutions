@@ -1,9 +1,9 @@
-🚀 My DSA & Problem Solving Journey
+## 🚀 My DSA & Problem Solving Journey
 
 Welcome to my Data Structures & Algorithms (DSA) and Problem-Solving repository!
 This repo is more than just solutions — it’s my personal growth tracker, learning log, and initiative to maintain discipline while building problem-solving excellence.
 
-📌 Why I Started This Repository
+# 📌 Why I Started This Repository
 
 To track my progress across different coding challenges.
 
@@ -14,7 +14,7 @@ To showcase my initiative, consistency, and coding discipline to recruiters and 
 To stand out from the crowd by not just solving problems but also documenting my journey.
 
 
-✨ What Makes This Repository Different?
+# ✨ What Makes This Repository Different?
 
 🔥 Well-Structured Solutions – categorized by topic (Recursion, DP, Graphs, etc.).
 
@@ -29,7 +29,7 @@ To stand out from the crowd by not just solving problems but also documenting my
 🌟 Recruiter-Friendly – designed to reflect initiative, consistency, and problem-solving mindset.
 
 
-📂 Repository Structure
+# 📂 Repository Structure
 
 📦 DSA-Problem-Solving
  ┣ 📂 Arrays
@@ -42,7 +42,7 @@ To stand out from the crowd by not just solving problems but also documenting my
  ┣ 📂 Miscellaneous
  ┗ 📜 README.md
 
-🛠 Tech & Tools I Use
+# 🛠 Tech & Tools I Use
 
 Language: Java (primary), Python (for some problems)
 
@@ -51,7 +51,7 @@ Editor: VS Code / IntelliJ
 Version Control: Git & GitHub (to track progress and stay accountable)
 
 
-🏆 Long-Term Vision
+## 🏆 Long-Term Vision
 
 Solve 500+ problems across multiple platforms (LeetCode, GFG, Codeforces).
 
@@ -60,7 +60,7 @@ Build optimized coding habits and strong fundamentals.
 Use this repo as a springboard for competitive programming & FAANG-level interviews.
 
 
-🔥 Progress Tracker
+# 🔥 Progress Tracker
 
 Topic	Problems Solved	Status
 
@@ -73,7 +73,7 @@ Graphs	2	🚀 Starting Soon
 
 (auto-updated weekly)
 
-🧠 My Philosophy
+# 🧠 My Philosophy
 
 > “Don’t just solve problems. Build habits. Learn patterns. Stand out.”
 
@@ -81,7 +81,7 @@ Graphs	2	🚀 Starting Soon
 
 This repo reflects my mindset of growth, not just coding. Anyone can write code — but writing, tracking, and explaining consistently is what makes a true engineer stand out.
 
-💡 Future Standout Features I Plan to Add
+# 💡 Future Standout Features I Plan to Add
 
 🔍 Searchable Index of Problems (so anyone can find by tag/topic easily)
 
@@ -90,7 +90,7 @@ This repo reflects my mindset of growth, not just coding. Anyone can write code 
 🌍 Open for Collaboration – others can contribute their approaches too
 
 
-🤝 Let’s Connect
+## 🤝 Let’s Connect
 
 I’m always open to connect with like-minded peers, mentors, and recruiters:
 
