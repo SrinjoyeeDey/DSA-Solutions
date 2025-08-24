@@ -1,9 +1,9 @@
-## 🚀 My DSA & Problem Solving Journey
+# 🚀 My DSA & Problem Solving Journey
 
 Welcome to my Data Structures & Algorithms (DSA) and Problem-Solving repository!
 This repo is more than just solutions — it’s my personal growth tracker, learning log, and initiative to maintain discipline while building problem-solving excellence.
 
-# 📌 Why I Started This Repository
+## 📌 Why I Started This Repository
 
 To track my progress across different coding challenges.
 
@@ -14,7 +14,7 @@ To showcase my initiative, consistency, and coding discipline to recruiters and 
 To stand out from the crowd by not just solving problems but also documenting my journey.
 
 
-# ✨ What Makes This Repository Different?
+## ✨ What Makes This Repository Different?
 
 🔥 Well-Structured Solutions – categorized by topic (Recursion, DP, Graphs, etc.).
 
