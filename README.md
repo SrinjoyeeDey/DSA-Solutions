@@ -65,6 +65,7 @@ Use this repo as a springboard for competitive programming & FAANG-level intervi
 Topic	Problems Solved	Status
 
 Arrays		✅ In Progress
+LinkeList 4 ✅ In Progress
 Strings		✅ In Progress
 Recursion	1	✅ In Progress
 Dynamic Programming		🚀 Starting Soon
