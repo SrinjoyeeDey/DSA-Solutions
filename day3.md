@@ -26,7 +26,6 @@ Problem Statement
 Given a linked list, delete N nodes after every M nodes until the end of the list.
 
 
----
 
 Approaches
 
@@ -62,8 +61,6 @@ Drawback: Requires extra loops → less efficient.
 
 
 
----
-
 ### Edge Cases
 
 M = 0: Delete everything.
@@ -76,14 +73,12 @@ List smaller than M + N.
 
 
 
----
 
 ### Complexity
 
 Time: O(n) → one traversal of the list.
 
 Space: O(1) → constant extra space.
-
 
 
 ---
@@ -95,7 +90,6 @@ Problem Statement
 Find the node where two singly linked lists merge. Return the node’s index (or value).
 
 
----
 
 Approaches
 
@@ -124,8 +118,6 @@ Time: O(m*n)
 
 
 
----
-
 ### Edge Cases
 
 No intersection → return -1.
@@ -135,8 +127,6 @@ One list is empty.
 Lists merge at the head.
 
 
-
----
 
 ### Complexity
 
@@ -155,7 +145,7 @@ Problem Statement
 Merge k sorted linked lists into a single sorted linked list.
 
 
----
+
 
 Approaches
 
@@ -185,9 +175,6 @@ Time: O(n log n) for sorting.
 
 
 
-
----
-
 ### Edge Cases
 
 k = 0 → return null.
@@ -197,8 +184,6 @@ One list is empty.
 All lists empty.
 
 
-
----
 
 ### Complexity
 
@@ -217,7 +202,6 @@ Problem Statement
 Rearrange a linked list such that all even-valued nodes appear before odd-valued nodes, maintaining relative order.
 
 
----
 
 Approaches
 
@@ -251,8 +235,6 @@ If node is odd → add to odd list.
 
 
 
----
-
 ### Edge Cases
 
 Empty list → return null.
@@ -262,8 +244,6 @@ All even or all odd numbers.
 Only one node.
 
 
-
----
 
 ### Complexity
 
