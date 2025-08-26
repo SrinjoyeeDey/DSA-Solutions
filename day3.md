@@ -1,4 +1,4 @@
-🚀 Day 3 – Linked List Problems
+# 🚀 Day 3 – Linked List Problems
 
 Welcome to Day 3 of my DS-Effective journey.
 Today I solved 4 important Linked List problems that frequently appear in technical interviews.
@@ -19,7 +19,7 @@ Each solution includes:
 
 ---
 
-📌 Problem 1: Delete N Nodes After M Nodes
+## 📌 Problem 1: Delete N Nodes After M Nodes
 
 Problem Statement
 
@@ -64,7 +64,7 @@ Drawback: Requires extra loops → less efficient.
 
 ---
 
-Edge Cases
+### Edge Cases
 
 M = 0: Delete everything.
 
@@ -78,7 +78,7 @@ List smaller than M + N.
 
 ---
 
-Complexity
+### Complexity
 
 Time: O(n) → one traversal of the list.
 
@@ -88,7 +88,7 @@ Space: O(1) → constant extra space.
 
 ---
 
-📌 Problem 2: Intersection of Two Singly Linked Lists
+## 📌 Problem 2: Intersection of Two Singly Linked Lists
 
 Problem Statement
 
@@ -126,7 +126,7 @@ Time: O(m*n)
 
 ---
 
-Edge Cases
+### Edge Cases
 
 No intersection → return -1.
 
@@ -138,7 +138,7 @@ Lists merge at the head.
 
 ---
 
-Complexity
+### Complexity
 
 Time: O(m + n)
 
@@ -148,7 +148,7 @@ Space: O(1)
 
 ---
 
-📌 Problem 3: Merge K Sorted Linked Lists
+## 📌 Problem 3: Merge K Sorted Linked Lists
 
 Problem Statement
 
@@ -188,7 +188,7 @@ Time: O(n log n) for sorting.
 
 ---
 
-Edge Cases
+### Edge Cases
 
 k = 0 → return null.
 
@@ -200,7 +200,7 @@ All lists empty.
 
 ---
 
-Complexity
+### Complexity
 
 Time: O(n log k) (n total nodes, k lists).
 
@@ -210,7 +210,7 @@ Space: O(k) for heap.
 
 ---
 
-📌 Problem 4: Put Even Nodes Before Odd Nodes
+## 📌 Problem 4: Put Even Nodes Before Odd Nodes
 
 Problem Statement
 
@@ -253,7 +253,7 @@ If node is odd → add to odd list.
 
 ---
 
-Edge Cases
+### Edge Cases
 
 Empty list → return null.
 
@@ -265,7 +265,7 @@ Only one node.
 
 ---
 
-Complexity
+### Complexity
 
 Time: O(n) → single traversal.
 
